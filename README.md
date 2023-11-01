@@ -3,8 +3,6 @@
 - 🔭 I’m currently working with ...
 
   ##### Frontend
-  
-  * [![Vue][Vue.js]][Vue-url]
 
 
 
