@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center"> 
-  <a href="nader.khaled.dev@gmail.com">
+  <a href="mailto:nader.khaled.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/nader-khaled-dev" target="_blank">
