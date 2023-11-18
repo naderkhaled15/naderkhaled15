@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naderkhaled15.naderkhaled15" />
+
 ### Hi there👋, I'm Nader
 
 - 🔭 I’m currently working with ...
