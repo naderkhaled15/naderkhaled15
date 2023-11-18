@@ -9,8 +9,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=html,CSS,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vuejs" />
+    <br>
 </div>
 
 
