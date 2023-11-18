@@ -12,6 +12,8 @@
     <img  align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass" /><br/>
     <img  align="center" src="https://skillicons.dev/icons?i=javascript,typescript" /><br/>
     <img  align="center" src="https://skillicons.dev/icons?i=vuejs,vite" />
+    <img width="50" src="https://pinia.vuejs.org/logo.svg" alt="Pinia logo">
+
     <br>
 </div>
 
