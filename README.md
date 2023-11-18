@@ -14,7 +14,7 @@
     <img  align="center" src="https://skillicons.dev/icons?i=vuejs,vite" /><br/>
     <img width="50" src="https://pinia.vuejs.org/logo.svg" alt="Pinia logo">
 </div>
-
+<br/>
 <h3 align="left">📬 Connect with</h3>
 <div align="center"> 
   <a href="mailto:nader.khaled.dev@gmail.com">
