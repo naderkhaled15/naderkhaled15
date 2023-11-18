@@ -10,7 +10,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vuejs,vite,pinia" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=vuejs,vite,pinia" />
     <br>
 </div>
 
