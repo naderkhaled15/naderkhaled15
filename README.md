@@ -15,7 +15,7 @@
     <img width="50" src="https://pinia.vuejs.org/logo.svg" alt="Pinia logo">
 </div>
 <br/>
-<h3 align="left">📬 Connect with</h3>
+<h2 align="left">📬 Connect with</h2>
 <div align="center"> 
   <a href="mailto:nader.khaled.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
