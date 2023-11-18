@@ -24,35 +24,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there👋, I'm Nader
-
-- 🔭 I’m currently working with ...
-
-  ##### Frontend
-
-
-
-<!--
-**naderkhaled15/naderkhaled15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
